@@ -8,4 +8,4 @@ Compiled in unity
 
 [GET THE DECOMPILE (Classic)](https://pspleaffox.itch.io/baldi-open-source-classic-party)
 
-Gifs/StartGif.gif
+![til](Gifs/StartGif.gif)
